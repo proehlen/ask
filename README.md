@@ -1,16 +1,14 @@
 # ask
 
-A new Flutter project.
+This is a gui dialog prompt tool for incorporating user decisions in scripts run from a desktop environment.
 
-## Getting Started
+**WARNING**
+This is a throwaway project created because:
+1. Zenity stopped working for me after a recent update,
+2. I'm learning Dart/Flutter and it's trivial to build myself a replacement.
 
-This project is a starting point for a Flutter application.
+If you need this sort of functionality yourself, seek out mature and better supported alternatives such as:
+* zenity
+* dialog
+* whiptail, etc
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
